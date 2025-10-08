@@ -14,7 +14,7 @@ Origine : [Nightwish](https://hackropole.fr/fr/challenges/reverse/fcsc2020-rever
 
 
 #### tentez 
-> nc nightwish.cyrhades.com:4000
+> nc nightwish.cyrhades.fr:4000
 
 
 -----------
